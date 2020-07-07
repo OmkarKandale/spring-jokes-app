@@ -64,6 +64,6 @@
     </build>
 
     <scm>
-      <developerConnection>scm:git@github.com:OmkarKandale/spring-jokes-app.git</developerConnection>
+      <developerConnection>scm:git:git@github.com:OmkarKandale/spring-jokes-app.git</developerConnection>
     </scm>
 </project>
